@@ -65,3 +65,11 @@ Faça um algoritmo que calcule e escreva a média aritmética dos dois números 
 
 14 - Passou no Teste?
 Escreva um programa para ler 2 notas de um aluno, calcular e imprimir a média final. Considere que a nota de aprovação é 6,5. Logo após escrever a mensagem "Calcular a média de outro aluno Sim/Não?" e solicitar um resposta. Se a resposta for "S", o programa deve ser executado novamente, caso contrário deve ser encerrado exibindo a quantidade de alunos aprovados.   
+
+## Linguagens Utilizadas
+para a criaçâo dos progrmas utilezei somente a linhuagem java
+
+## Como Utilizar?
+1.Faça O dowload da pasta zip em code
+
+2.Extraia  da pasta zip os arquivos no seu explorador de arquivos.
